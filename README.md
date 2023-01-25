@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning backend web development with Python and fullstack web development with JavaScript
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me:
-<a href="https://tg.me/nadia3373" rel="nofollow">
+<a href="https://t.me/nadia3373" rel="nofollow">
   <img height="30" src="https://github.com/aleen42/badges/blob/master/src/telegram.svg">
 </a>
 
