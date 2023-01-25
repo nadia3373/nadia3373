@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :hammer_and_wrench: Languages and Tools :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia3373&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia3373&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nadia3373&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
