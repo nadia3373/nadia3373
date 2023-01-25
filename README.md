@@ -45,7 +45,7 @@
  </div>
 
 ### :bar_chart: Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia3373&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia3373&theme=tokyonight&hide_border=true&hide=rtf,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nadia3373&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
