@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-– 🐍 My primary programming languages are Python and JavaScript
+- 🐍 My primary programming languages are Python and JavaScript
 - 🔭 I’m currently working on improving my skills, building a portfolio and finding my first job
 - 🌱 I’m currently learning backend web development with Python and fullstack web development with JavaScript
 - 👯 I’m looking to collaborate on open source projects
