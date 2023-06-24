@@ -4,7 +4,7 @@ Aspiring software developer with a strong focus on web development, I am passion
 
 🐍 My primary programming languages are Python and JavaScript. Devoting significant time and effort to self-education, I acquire skills through various online resources, tutorials, and project-based approach. Self-guided study has helped me build a solid foundation in web development concepts and gain practical experience in building web applications.  
 
-🇬🇧 With a B2 level of English proficiency, I'm able to effectively read, understand, and translate official documentation.  
+🇬🇧 With a B2/C1 level of English proficiency, I'm able to effectively read, understand, and translate official documentation.  
 
 ***
 
@@ -12,7 +12,7 @@ Aspiring software developer with a strong focus on web development, I am passion
 
 🐍 Мои главные языки программирования – Python и JavaScript. Посвящая значительное количество времени и сил самообразованию, я развиваю навыки с помощью различных онлайн-ресурсов, руководств и проектно-ориентированного подхода. Самостоятельное обучение помогло мне построить прочный фундамент знаний в сфере веб-разработки и приобрести практический опыт разработки веб-приложений.  
 
-🇬🇧 Обладая уровнем владения английским языком B2, я читаю, понимаю и могу переводить официальную документацию.  
+🇬🇧 Обладая уровнем владения английским языком B2/C1, я читаю, понимаю и могу переводить официальную документацию.  
 
 <a href="https://t.me/nadia3373" rel="nofollow">
   <img height="30" src="https://github.com/aleen42/badges/blob/master/src/telegram.svg">
