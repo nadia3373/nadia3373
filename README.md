@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Aspiring software developer with a strong focus on web development, I am passionate about learning and strive to create clean, efficient, and user-friendly code.  
+Junior software developer with a strong focus on web development, I am passionate about learning and strive to create clean, efficient, and user-friendly code.  
 
 🐍 My primary programming languages are Python and JavaScript. Devoting significant time and effort to self-education, I acquire skills through various online resources, tutorials, and project-based approach. Self-guided study has helped me build a solid foundation in web development concepts and gain practical experience in building web applications.  
 
@@ -8,7 +8,7 @@ Aspiring software developer with a strong focus on web development, I am passion
 
 ***
 
-Я начинающий разработчик с уклоном в веб-разработку, с удовольствием осваиваю новое и стремлюсь к созданию чистого, эффективного и удобного в использовании кода.  
+Я junior разработчик с уклоном в веб-разработку, с удовольствием осваиваю новое и стремлюсь к созданию чистого, эффективного и удобного в использовании кода.  
 
 🐍 Мои главные языки программирования – Python и JavaScript. Посвящая значительное количество времени и сил самообразованию, я развиваю навыки с помощью различных онлайн-ресурсов, руководств и проектно-ориентированного подхода. Самостоятельное обучение помогло мне построить прочный фундамент знаний в сфере веб-разработки и приобрести практический опыт разработки веб-приложений.  
 
